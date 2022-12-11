@@ -1,4 +1,12 @@
-# HDK-GreenMarket 
+# HDK-GreenMarket
+Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh </br>
+Tiểu luận chuyên ngành </br>
+GVHD: Hoàng Văn Dũng </br>
+Thực hiện: Nhóm 4 </br>
+Thành viên:
+1. Trần Nguyễn Quốc Khánh  19110227 
+2. Nguyễn Kỳ Hải           19110197
+3. Diệp Thái Dương         19110009
 ## Link project: https://green-market-hdk-izrrhd2plq-uc.a.run.app 
 ### Link báo cáo: https://drive.google.com/file/d/1BF5S9y1J3qSlA_rR2zJ_jWoDyNGM4iSQ/view?usp=sharing
 
@@ -15,7 +23,7 @@ Link project sau khi deploy: https://green-market-hdk-izrrhd2plq-uc.a.run.app
 > Cài đặt IDE Visual Studio Code, Git, NodeJS, npm (hoặc yarn) 
   * Chọn thư mục cần chạy dự án, cmd vào thư mục đó
   * Chạy lệnh: `git clone https://github.com/TNQuocKhanh/API-MERN.git` với back-end </br>
-    Và `git clone https://github.com/DiepThaiDuong-19110009/frontend-TLCN` với front-end
+    Và `git clone https://github.com/DiepThaiDuong-19110009/frontend-TLCN.git` với front-end
   * Chạy lệnh: `npm install` (nếu lỗi do xung đột phiên bản thì chạy lệnh: `npm install --force`)
   * Chạy lệnh: `npm start` để chạy dự án 
 > Lưu ý: Cần chạy back-end trước để có API cho front-end  
